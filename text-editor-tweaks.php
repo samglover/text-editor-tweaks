@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Text Editor Tweaks
+Plugin Name: WP Editor Tweaks
 Plugin URI: http://lawyerist.com
 Description: Styling tweaks for the WordPress text editor.
 Author: Sam Glover
