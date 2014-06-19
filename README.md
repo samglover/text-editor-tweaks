@@ -1,3 +1,3 @@
 # Text Editor Tweaks for WordPress
 
-This is a super-simple WordPress plugin. I mostly edit using the Text tab of the WordPress editor (as opposed to the TinyMCE Visual editor) and I just wanted to make the font a bit bigger. So that's what it does.
+This is a super-simple WordPress plugin that makes the Visual and Text tabs of the WordPress editor look a bit better than stock.
