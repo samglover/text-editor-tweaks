@@ -2,10 +2,10 @@
 
 /*
 Plugin Name: WP Editor Tweaks
-Plugin URI: http://lawyerist.com
+Plugin URI: http://wordpress.org/plugins/wp-editor-tweaks/
 Description: Styling tweaks for the WordPress text editor.
 Author: Sam Glover
-Version: 1.1
+Version: 1.2
 Author URI: http://samglover.net
 */
 
