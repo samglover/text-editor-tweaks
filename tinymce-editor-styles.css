@@ -63,39 +63,6 @@ p {
 	margin:0 0 2.8rem 0;
 }
 
-p.pullout {
-	background:#eee;
-	display:inline-block;
-	float:right;
-	margin:0 0 1.5rem 1.5rem;
-	padding:1.5rem 2.5rem 2rem 2.5rem;
-	box-shadow:0 0 5rem rgba(0,0,0,.1) inset;
-	width:39.0625%;
-}
-
-	p.pullout strong {
-		border-bottom:1px solid #bbb;
-		display:block;
-		font-family:'Roboto Slab',sans-serif;
-		margin-bottom:1rem;
-	}
-
-	p.pullout.left {
-		float:left;
-		margin:0 1.5rem 1.5rem 0;
-	}
-
-p.pullquote {
-    clear:both;
-	color:#888;
-	font-family:'Source Sans Pro',sans-serif;
-	font-size:2.8rem;
-	font-style:italic;
-	line-height:3.9rem;
-	margin-left:2.8rem;
-	margin-right:2.8rem;
-}
-
 small {
 	font-size:80%;
 }
