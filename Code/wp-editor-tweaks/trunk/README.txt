@@ -35,7 +35,7 @@ Stay tuned. That's the next thing on my to-do list.
 
 == Changelog ==
 
-= 1.3.1 =
+=1.3.1 =
 
 * Change Google Font @import references to https.
 
