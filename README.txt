@@ -12,19 +12,23 @@ A super-simple WordPress plugin that improves both tabs of the WordPress editor 
 
 == Description ==
 
-WP Editor Tweaks is a super-simple WordPress plugin that improves both tabs of the WordPress editor with better fonts from Google Fonts ([Source Sans Pro](https://www.google.com/fonts/specimen/Source%20Sans%20Pro) in the *Visual* editor and [Source Code Pro](https://www.google.com/fonts/specimen/Source%20Code%20Pro) in the *Text* editor) and improved typography. Once you start using WP Editor Tweaks, you may even *enjoy* drafting your posts in WordPress!
+WP Editor Tweaks is a super-simple WordPress plugin that improves both tabs of the WordPress editor with better fonts from Google Fonts ([Source Sans Pro](https://www.google.com/fonts/specimen/Source%20Sans%20Pro) in the Visual editor and [Source Code Pro](https://www.google.com/fonts/specimen/Source%20Code%20Pro) in the Text editor) and improved typography. Once you start using WP Editor Tweaks, you may even *enjoy* drafting your posts in WordPress!
 
 
 == Installation ==
 
-Install WP Editor Tweaks from *Plugins > Add New* in your WordPress install or by uploading the files to your server.
+Install WP Editor Tweaks from **Plugins > Add New** in your WordPress install or by uploading the files to your server.
 
 
 == Frequently Asked Questions ==
 
-= Why can't I pick my own fonts? =
+= How can I pick my own fonts? =
 
-Stay tuned. That's the next thing on my to-do list.
+In WordPress, go to **Settings > Writing** and scroll down to the WP Editor Tweaks section. You can select from several hand-picked Google fonts.
+
+= How can I change the font size? =
+
+In WordPress, go to **Settings > Writing** and scroll down to the WP Editor Tweaks section. The default base font size is 18px in the Visual editor, and 16px in the Text editor.
 
 
 == Screenshots ==
@@ -34,6 +38,11 @@ Stay tuned. That's the next thing on my to-do list.
 
 
 == Changelog ==
+
+= 1.4 =
+
+* NEW: Go to **Settings > Writing** to select your preferred font and base font size.
+* Misc: Rename stylesheets with `wpet-` prefix to avoid conflicts with other plugins and themes.
 
 = 1.3.1 =
 
