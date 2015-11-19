@@ -39,10 +39,6 @@ In WordPress, go to **Settings > Writing** and scroll down to the WP Editor Twea
 
 == Changelog ==
 
-= 1.3.2 =
-
-* Simplify stylesheets.
-
 = 1.3.1 =
 
 * Change Google Font @import references to https.
