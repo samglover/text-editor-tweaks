@@ -2,7 +2,7 @@
 Contributors: samglover
 Tags: admin,editor,posts,typography
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.4
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -38,11 +38,6 @@ In WordPress, go to **Settings > Writing** and scroll down to the WP Editor Twea
 
 
 == Changelog ==
-
-= 1.4 =
-
-* NEW: Go to **Settings > Writing** to select your preferred font and base font size.
-* Misc: Rename stylesheets with `wpet-` prefix to avoid conflicts with other plugins and themes.
 
 = 1.3.1 =
 
