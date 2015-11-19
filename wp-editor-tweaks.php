@@ -5,7 +5,6 @@ Plugin Name: WP Editor Tweaks
 Plugin URI: http://wordpress.org/plugins/wp-editor-tweaks/
 Description: Styling tweaks for the WordPress text editor.
 Author: Sam Glover
-<<<<<<< HEAD
 Version: 1.4
 Author URI: http://samglover.net
 */
