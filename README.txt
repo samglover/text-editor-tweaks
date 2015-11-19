@@ -39,6 +39,11 @@ In WordPress, go to **Settings > Writing** and scroll down to the WP Editor Twea
 
 == Changelog ==
 
+= 1.4 =
+
+* NEW: Go to **Settings > Writing** to select your preferred font and base font size.
+* Misc: Rename stylesheets with `wpet-` prefix to avoid conflicts with other plugins and themes.
+
 = 1.3.1 =
 
 * Change Google Font @import references to https.
