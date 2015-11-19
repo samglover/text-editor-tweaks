@@ -3,7 +3,7 @@ Contributors: samglover
 Tags: admin,editor,posts,typography
 Requires at least: 3.0.1
 Tested up to: 4.4
-Stable tag: trunk
+Stable tag: 1.3.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,9 +39,10 @@ In WordPress, go to **Settings > Writing** and scroll down to the WP Editor Twea
 
 == Changelog ==
 
-= 1.3.2 =
+= 1.3.2, 1.3.3, 1.3.4 =
 
-* Simplify stylesheets.
+* Simplify stylesheets. (Add'l version numbers due to wrestling with SVN.)
+* Add common ligatures to Visual editor stylesheet.
 
 = 1.3.1 =
 
