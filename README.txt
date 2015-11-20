@@ -12,7 +12,7 @@ A super-simple WordPress plugin that improves both tabs of the WordPress editor 
 
 == Description ==
 
-WP Editor Tweaks is a super-simple WordPress plugin that improves both tabs of the WordPress editor with better fonts from Google Fonts ([Source Sans Pro](https://www.google.com/fonts/specimen/Source%20Sans%20Pro) in the Visual editor and [Source Code Pro](https://www.google.com/fonts/specimen/Source%20Code%20Pro) in the Text editor) and improved typography. Once you start using WP Editor Tweaks, you may even *enjoy* drafting your posts in WordPress!
+WP Editor Tweaks is a super-simple WordPress plugin that improves both tabs of the WordPress editor with better fonts from Google Fonts. You can select from several fonts and pick the base font size. Once you start using WP Editor Tweaks, you may even *enjoy* drafting your posts in WordPress!
 
 
 == Installation ==
